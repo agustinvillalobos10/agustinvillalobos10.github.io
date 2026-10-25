@@ -1,0 +1,42 @@
+PACK DE REDES — WAR STUDIO (muestra)
+
+== Lunes · Publicación (01-corte.jpg)
+Tu corte no es solo un corte: incluye asesoría, lavado y peinado. ✂️
+Desde $19.000 · 45 minutos.
+
+Agenda en el link de la bio o escríbenos por WhatsApp.
+📍 Av. Consistorial 2700, Peñalolén
+
+#WarStudio #ModoGuerrero #BarberíaPeñalolén #Peñalolén #Fade
+
+== Miércoles · Publicación (02-resena.jpg)
+Lo dice Nicolás, no nosotros. 🙌
+«Entendió bien lo que buscaba y se dio el tiempo de hacer un corte que fuera exactamente lo que yo quería.»
+
+Gracias por la confianza. 4,9 ★ con 290 reseñas en Google.
+¿Ya nos dejaste la tuya? El link está en la bio.
+
+#WarStudio #ModoGuerrero #Peñalolén
+
+== Viernes · Publicación (03-planes.jpg)
+Tu corte al día, todo el mes. Elige tu plan:
+• Básico $51.000: 3 cortes + facial + descuento en Sir Fausto
+• Premium $96.000: 6 cortes + 2 faciales + descuento + cera de regalo
+• Oro $180.000: 12 cortes + 4 faciales + mayor descuento + cera grande
+
+Pregunta por el tuyo en el local o por WhatsApp.
+
+#WarStudio #ModoGuerrero #Peñalolén
+
+== Jueves · Historia (04-historia.jpg)
+Agregar el sticker de enlace sobre el recuadro punteado → warstudio.site.agendapro.com (texto del sticker: «Agenda tu hora»).
+
+== ANUNCIO DE PRUEBA
+imgs: ['05-anuncio-feed.jpg', '06-anuncio-historia.jpg']
+textos: ['Cortaremos tu cabello, no tu vibra. ✂️ Barbería en Av. Consistorial 2700, Peñalolén. Abierto los 7 días, corte desde $19.000. Agenda en 1 minuto.', '4,9 ★ con 290 reseñas en Google. Corte con asesoría, lavado y peinado desde $19.000. Estamos en Av. Consistorial 2700, Peñalolén. ¿Agendamos?']
+titulo: Tu barbería en Peñalolén
+boton: Reservar (lleva a la agenda) o Enviar mensaje (WhatsApp)
+publico: Personas a 3 km de Av. Consistorial 2700 (Peñalolén), 18 a 45 años, todos los géneros (en War también atienden mujeres).
+ubicaciones: Instagram: feed e historias.
+presupuesto: Sugerencia para probar: $3.000 al día por 7 días ($21.000 en total). Lo decide y lo paga el dueño desde su cuenta publicitaria.
+medir: A los 3 días mirar: clics a la agenda o mensajes, y el costo por cada uno. Quedarse con el texto que mejor funcione y apagar el otro.
