@@ -1,4 +1,4 @@
-PACK DE REDES — WAR STUDIO (muestra v2)
+PACK DE REDES — WAR STUDIO (muestra v3)
 
 == Lunes · Carrusel (3 láminas) (01a-corte-portada.jpg, 01b-corte-incluye.jpg, 01c-corte-agenda.jpg)
 Tu corte no es solo un corte. ✂️
@@ -21,7 +21,7 @@ Lo dice Nicolás, no nosotros. 🙌
 
 == Viernes · Carrusel (4 láminas) (03a-planes-portada.jpg, 03b-plan-basico.jpg, 03c-plan-premium.jpg, 03d-plan-oro.jpg)
 Con un plan pagas menos por cada corte. Desliza y elige el tuyo 👉
-• Básico $51.000: 3 cortes + facial (sale a $17.000 el corte)
+• Básico $51.000: 3 cortes + 1 facial (sale a $17.000 el corte)
 • Premium $96.000: 6 cortes + 2 faciales (sale a $16.000)
 • Oro $180.000: 12 cortes + 4 faciales (sale a $15.000)
 
@@ -34,12 +34,14 @@ Al subirla, pon el sticker de enlace sobre el recuadro punteado → warstudio.si
 
 == ANUNCIO
 video: 07-anuncio-video.mp4
+video2: 07b-anuncio-video-sin-voz.mp4
 poster: 07-anuncio-video-portada.jpg
 imgs: ['05-anuncio-feed.jpg', '06-anuncio-historia.jpg']
 textos: ['Cortaremos tu cabello, no tu vibra. ✂️ Barbería en Av. Consistorial 2700, Peñalolén. Abierto los 7 días, corte desde $19.000. Agenda en 1 minuto.', '4,9 ★ con 290 reseñas en Google. Corte con asesoría, lavado y peinado desde $19.000. Estamos en Av. Consistorial 2700, Peñalolén. ¿Agendamos?']
 titulo: Tu barbería en Peñalolén
 boton: Reservar (lleva a la agenda de AgendaPro)
-formatos: Video de 13 s para Reels e historias (la versión principal) + imagen 4:5 para el feed + imagen 9:16 para historias. Instagram muestra a cada persona el formato que mejor le funciona.
+formatos: Video de 15 s con voz y música para Reels e historias (la versión principal) + imagen 4:5 para el feed + imagen 9:16 para historias. Instagram muestra a cada persona el formato que mejor le funciona.
+guion: En Peñalolén... hay cortes. / Y hay cortes de verdad. / Asesoría, corte, lavado y peinado. / Cuatro coma nueve estrellas en Google. / Cortaremos tu cabello... no tu vibra. / Agenda tu hora. / War Studio.
 publico: Personas a 3 km de Av. Consistorial 2700 (Peñalolén), 18 a 45 años, todos los géneros.
 presupuesto: Sugerencia para probar: $3.000 al día por 7 días ($21.000 en total). Lo decide y lo paga el dueño desde su propia cuenta publicitaria.
 medir: A los 3 días: cuántos clics a la agenda y cuánto costó cada uno. Se deja el texto y el formato que mejor funcionen y se apaga el resto.
