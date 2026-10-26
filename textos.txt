@@ -1,33 +1,11 @@
-PACK DE REDES — ESTAMPADOS K&D (muestra)
+ANUNCIOS DE LA SEMANA — WAR STUDIO — Semana del 26 de octubre al 1 de noviembre de 2026
 
-== Lunes · Carrusel (01a-empresas-portada.jpg, 01b-empresas-completo.jpg, 01c-empresas-cotiza.jpg)
-Viste a tu equipo con identidad y estilo 👕✨
-Logo, nombre y cargo. Desde pocas unidades.
-📲 Cotiza: +56 9 6329 9250
-
-#EstampadosKyD #PolerasPersonalizadas #PolerasEmpresariales #DTF #HechoEnChile
-
-== Miércoles · Reseña (02-resena.jpg)
-Gracias, Cristian 💙
-4,9 ★ con 67 reseñas en Google.
-
-#EstampadosKyD #ChillPeroResponsables
-
-== Jueves · Historia (04-historia.jpg)
-Pegar el sticker de enlace a WhatsApp en el recuadro.
-
-== Viernes · Carrusel (03a-catalogo-portada.jpg, 03b-catalogo-poleras.jpg, 03c-catalogo-polerones.jpg)
-Llegó el catálogo 🔥
-Poleras $11.990 · Polerones $15.990.
-📲 Pídelo por WhatsApp · 📦 Envíos a todo Chile
-
-#EstampadosKyD #PolerasPersonalizadas #PolerasEmpresariales #DTF #HechoEnChile #PoleronesPersonalizados
-
-== ANUNCIO
-textos: ['¿Tu equipo necesita poleras? 👕 Estampamos tu logo desde pocas unidades. Cotiza por WhatsApp 📲', '4,9 ★ en Google con 67 reseñas. Tú te lo imaginas, nosotros lo plasmamos ✨ Escríbenos por WhatsApp 📲']
-titulo: Poleras con tu logo
-boton: Enviar mensaje (WhatsApp)
-publico: Región Metropolitana, 25 a 55 años.
-presupuesto: $3.000 al día por 7 días ($21.000). Lo decide y lo paga K&D desde su cuenta.
-medir: Día 3: costo por conversación. Se deja el texto que funcione mejor.
-guion: ¿Tu equipo necesita poleras? / Con tu logo, estampado con estilo. / Desde pocas unidades, hasta grandes cantidades. / Cuatro coma nueve estrellas en Google. / Tú te lo imaginas... nosotros lo plasmamos. / Cotiza por WhatsApp. Estampados K&D.
+Textos: 
+  A · Experiencia: Te reciben con un café, esperas jugando arcade y sales con el corte que pediste. ✂️ War Studio, Av. Consistorial 2700, Peñalolén. Corte desde $19.000. Agenda en 1 minuto.
+  B · Reseña: «Estuve años buscando una buena barbería… realmente fue un hallazgo.» — Gustavo, en Google. 4,9 ★ con 290 reseñas. Corte desde $19.000 en Av. Consistorial 2700, Peñalolén. ¿Agendamos?
+Título: Barbería en Peñalolén
+Botón: Reservar → agenda de AgendaPro (warstudio.site.agendapro.com)
+Guion de la voz: POV: tu primera vez en War Studio. / Te reciben con un café. / Esperas jugando arcade. / Te asesoran según tu pelo. / Y sales así. / Cuatro coma nueve en Google. / Agenda tu hora.
+Público: Personas a 3 km de Av. Consistorial 2700 (Peñalolén), 18 a 45 años, todos los géneros.
+Presupuesto: $3.000 al día por 7 días ($21.000 en total). Lo decide y lo paga el dueño desde su propia cuenta publicitaria.
+Cómo medir: Día 3 (jueves 29): clics a la agenda y costo por clic de A y B. Se deja la versión ganadora y se apaga la otra. Día 7: cuántas horas nuevas llegaron por la agenda.
