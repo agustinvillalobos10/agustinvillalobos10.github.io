@@ -30,4 +30,4 @@ boton: Enviar mensaje (WhatsApp)
 publico: Región Metropolitana, 25 a 55 años.
 presupuesto: $3.000 al día por 7 días ($21.000). Lo decide y lo paga K&D desde su cuenta.
 medir: Día 3: costo por conversación. Se deja el texto que funcione mejor.
-guion: ¿Tu equipo necesita poleras? / Con tu logo, estampado con estilo. / Desde pocas unidades, hasta grandes cantidades. / Cuatro coma nueve estrellas en Google. / Tú te lo imaginas... nosotros lo plasmamos. / Cotiza por WhatsApp. Estampados K&D.
+guion: (para grabar con voz real) ¿Tu equipo necesita poleras? / Con tu logo, estampado con estilo. / Desde pocas unidades, hasta grandes cantidades. / Cuatro coma nueve estrellas en Google. / Tú te lo imaginas... nosotros lo plasmamos. / Cotiza por WhatsApp. Estampados K&D.
